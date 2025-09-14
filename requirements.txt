@@ -1,0 +1,43 @@
+streamlit==1.38.0
+python-dotenv==1.0.1
+PyPDF2==3.0.1
+
+# LangChain core + community integrations
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-google-genai==2.1.10
+
+# Vector store
+
+
+# HuggingFace embeddings
+sentence-transformers==3.2.1
+
+# Google Generative AI SDKs
+google-generativeai==0.8.5
+google-ai-generativelanguage==0.6.18
+
+# Protobuf (compatible with opentelemetry-proto)
+protobuf==4.25.3
+
+# Other required dependencies
+numpy==2.0.2
+tqdm==4.67.1
+requests==2.32.3
+packaging==25.0
+orjson==3.11.3
+pydantic==2.11.1
+PyYAML==6.0.2
+tenacity==9.1.0
+tokenizers==0.20.1
+python-dateutil==2.9.0.post0
+six==1.17.0
+click==8.1.8
+joblib==1.4.2
+regex==2024.11.6
+flatbuffers==25.2.10
+sympy==1.13.3
+networkx==3.4.2
+jinja2==3.1.4
+h11==0.14.0
+wrapt==1.16.0
