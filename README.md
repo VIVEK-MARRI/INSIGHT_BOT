@@ -30,4 +30,4 @@ It provides a unified dashboard for performing **Question Answering (QA)** on di
 ```bash
 git clone https://github.com/your-username/insight-bot.git
 cd insight-bot
-2. Create & activate virtual environment
+
