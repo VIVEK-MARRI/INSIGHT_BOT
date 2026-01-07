@@ -252,4 +252,4 @@ This project is released under the MIT License. See [LICENSE](./LICENSE) for det
 Maintainer: VIVEK-MARRI  
 Repository: https://github.com/VIVEK-MARRI/INSIGHT_BOT
 
-If you find this project helpful, a star is appreciated! Contributions, feedback, and feature requests are welcome. .......
+If you find this project helpful, a star is appreciated! Contributions, feedback, and feature requests are welcome. 
